@@ -1,0 +1,232 @@
+[
+ {
+   "Card Type": "Ally",
+   "Unique": 1,
+   "Faction": "Neutral",
+   "Name": "Roman de Franco",
+   "Subtitle": "Double agent",
+   "Description": "The first time your opponent reveals an asset each turn, he or she reveals it from your asset deck.",
+   "Cost": "$2",
+   "Number": 1
+ },
+ {
+   "Card Type": "Ally",
+   "Unique": 1,
+   "Faction": "Neutral",
+   "Name": "Miles Garett",
+   "Subtitle": "Salesman",
+   "Description": "After you acquire an asset, draw a card.",
+   "Cost": "$3",
+   "Number": 2
+ },
+ {
+   "Card Type": "Ally",
+   "Unique": 1,
+   "Faction": "Neutral",
+   "Name": "Linus Järvinen ",
+   "Subtitle": "Traitor",
+   "Description": "When attempting to acquire assets from your opponent's deck, your strength, speed, and charm are increased by one",
+   "Cost": "$2",
+   "Number": 3
+ },
+ {
+   "Card Type": "Ally",
+   "Unique": null,
+   "Faction": "Neutral",
+   "Name": "Body Double",
+   "Subtitle": "Cannon Fodder",
+   "Description": "Trash: prevent any one instance where you would discard cards from hand, or prevent an ally from being discarded.",
+   "Cost": "$1",
+   "Number": 4
+ },
+ {
+   "Card Type": "Ally",
+   "Unique": 1,
+   "Faction": "CORE",
+   "Name": "Sgt. Collins",
+   "Subtitle": "Drill Sergeant",
+   "Description": "Pay $1 to gain 1 strength (limit 3x per turn).",
+   "Cost": "$1",
+   "Number": 5
+ },
+ {
+   "Card Type": "Ally",
+   "Unique": 1,
+   "Faction": "CORE",
+   "Name": "Adriaan De Vries",
+   "Subtitle": "Mercenary",
+   "Description": "Pay $X: defeat 1 enemy, where X is the enemy's cost (limit once per turn)",
+   "Cost": "$2",
+   "Number": 6
+ },
+ {
+   "Card Type": "Ally",
+   "Unique": 1,
+   "Faction": "CORE",
+   "Name": "Steve Sanders",
+   "Subtitle": "Movie Star",
+   "Description": "Reduces the charm requirement of Civilian and Government assets by 1.",
+   "Cost": "$1",
+   "Number": 7
+ },
+ {
+   "Card Type": "Ally",
+   "Unique": 1,
+   "Faction": "CORE",
+   "Name": "Sally Harlow",
+   "Subtitle": "Intelligence Analyst",
+   "Description": "Discard one intel to gain $2 (limit 2x per turn).",
+   "Cost": "$0",
+   "Number": 8
+ },
+ {
+   "Card Type": "Ally",
+   "Unique": 1,
+   "Faction": "USSR",
+   "Name": "Sergei Tchaikovsky",
+   "Subtitle": "General",
+   "Description": "Gain $1 whenever you defeat an enemy (limit 2x per turn).",
+   "Cost": "$3",
+   "Number": 9
+ },
+ {
+   "Card Type": "Ally",
+   "Unique": 1,
+   "Faction": "USSR",
+   "Name": "Josef Minsky ",
+   "Subtitle": "New Recruit.",
+   "Description": "Trash: defeat the enemy currently being encountered, if it's cost is $4 or less.",
+   "Cost": "$2",
+   "Number": 10
+ },
+ {
+   "Card Type": "Ally",
+   "Unique": 1,
+   "Faction": "USSR",
+   "Name": "Alexandra Sokolov",
+   "Subtitle": "True Believer",
+   "Description": "Trash: evade the enemy currently being encountered.",
+   "Cost": "$1",
+   "Number": 11
+ },
+ {
+   "Card Type": "Ally",
+   "Unique": 1,
+   "Faction": "USSR",
+   "Name": "Petr Trotsky",
+   "Subtitle": "Party Official",
+   "Description": "Trash: Gain 4 charm for use acquiring the current asset.",
+   "Cost": "$2",
+   "Number": 12
+ },
+ {
+   "Card Type": "Ally",
+   "Unique": 1,
+   "Faction": "USSR",
+   "Name": "Anastasiya Popov",
+   "Subtitle": "Helicopter Pilot",
+   "Description": "Pay $1 to gain 1 evade (limit 3x per turn).",
+   "Cost": "$2",
+   "Number": 13
+ },
+ {
+   "Card Type": "Ally",
+   "Unique": 1,
+   "Faction": "USSR",
+   "Name": "Linda Koenig",
+   "Subtitle": "Student Activist",
+   "Description": "Reduces the charm requirement of Civilian assets by 2.",
+   "Cost": "$1",
+   "Number": 14
+ },
+ {
+   "Card Type": "Ally",
+   "Unique": 1,
+   "Faction": "USSR",
+   "Name": "‘Sarah Jensen’ ",
+   "Subtitle": "Pretend American",
+   "Description": "Trash: (encounter phase only) acquire one Civilian asset with 3 intel or less.",
+   "Cost": "$2",
+   "Number": 15
+ },
+ {
+   "Card Type": "Ally",
+   "Unique": 1,
+   "Faction": "CRYPTIC",
+   "Name": "Christopher Brown",
+   "Subtitle": "Mad Scientist",
+   "Description": "Reduces the cost of the first Equipment card you play each turn by one.",
+   "Cost": "$2",
+   "Number": 16
+ },
+ {
+   "Card Type": "Ally",
+   "Unique": 1,
+   "Faction": "CRYPTIC",
+   "Name": "Sarah Moretti",
+   "Subtitle": "Head of Recruitment",
+   "Description": "Pay $1 to gain 1 charm (limit 3x per turn).",
+   "Cost": "$2",
+   "Number": 17
+ },
+ {
+   "Card Type": "Ally",
+   "Unique": 1,
+   "Faction": "CRYPTIC",
+   "Name": "Dr. Jax",
+   "Subtitle": "Cybernetics Specialist",
+   "Description": "Exhaust Dr. Jax to search the top 10 cards of your deck for a Trap or Robot enemy.",
+   "Cost": "$2",
+   "Number": 18
+ },
+ {
+   "Card Type": "Ally",
+   "Unique": 1,
+   "Faction": "Secret Masters",
+   "Name": "#3",
+   "Subtitle": "The Nine",
+   "Description": "Discard a random card from your hand to raise a stat by 1 (limit 2x per turn).",
+   "Cost": "$2",
+   "Number": 19
+ },
+ {
+   "Card Type": "Ally",
+   "Unique": 1,
+   "Faction": "Secret Masters",
+   "Name": "#4",
+   "Subtitle": "The Nine",
+   "Description": "When played: look at the top ten cards of your play deck and arrange them in any order.",
+   "Cost": "$1",
+   "Number": 20
+ },
+ {
+   "Card Type": "Ally",
+   "Unique": 1,
+   "Faction": "Secret Masters",
+   "Name": "#6 ",
+   "Subtitle": "The Nine",
+   "Description": "When drawing cards in the Upkeep phase, draw one extra, then return one card from your hand to the bottom of the deck.",
+   "Cost": "$4",
+   "Number": 21
+ },
+ {
+   "Card Type": "Ally",
+   "Unique": 1,
+   "Faction": "Secret Masters",
+   "Name": "Frederich Schneider",
+   "Subtitle": "Enforcer",
+   "Description": "Pay $1 to increase the charm requirement of an asset by 1 (limit 3x per turn).",
+   "Cost": "$2",
+   "Number": 22
+ },
+ {
+   "Card Type": "Ally",
+   "Unique": 1,
+   "Faction": "Secret Masters",
+   "Name": "Jackson Richards",
+   "Subtitle": "Strategist",
+   "Description": "At the end of the encounter phase, if you did not acquire an asset, gain $1 and draw one card.",
+   "Cost": "$2",
+   "Number": 23
+ }
+]
