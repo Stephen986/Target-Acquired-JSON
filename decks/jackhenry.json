@@ -1,0 +1,43 @@
+{
+ "id": 1
+ "name": "Jack Henry Starter Deck"
+ "id_code": 1
+ "slots": {
+   "Miles Garett": 1,
+   "Sgt. Collins": 2,
+   "Adriaan De Vries": 1,
+   "Steve Sanders": 1,
+   "Sally Harlow": 1,
+   ".38 Special": 2,
+   "Counterfeit ID": 1,
+   "Shotgun": 1,
+   "Ferrari": 1,
+   "Handcuffs": 1,
+   "Tear gas": 1,
+   "An Offer You Can’t Refuse": 1,
+   "Sabotage": 1,
+   "Interrogation": 1,
+   "Airlift": 1,
+   "Good First Impression": 1,
+   "Medal of Honor": 1,
+   "Intimidating Presence": 1,
+   "FIELD19": "",
+   "Men in Black": 1,
+   "Guard Dog": 2,
+   "Laser sensors": 1,
+   "Inquisitive Policeman": 2,
+   "Deepwater Corp Patrol": 1,
+   "The Cleaner": 1,
+   "CORE Recruit": 2,
+   "Jim Blonde": 1,
+   "Agent X-13": 1,
+   "Emily Chen": 1,
+   "George Landry": 1,
+   "Closing In": 1,
+   "Won’t Be Fooled Again": 1,
+   "Red Alert": 1,
+   "License to Kill": 1,
+   "Last Shred of Honor": 1,
+   "Diplomatic Interference": 1
+ }
+}
