@@ -1,7 +1,7 @@
 {
- "id": 1
- "name": "Jack Henry Starter Deck"
- "id_code": 1
+ "id": 1,
+ "name": "Jack Henry Starter Deck",
+ "id_code": 1,
  "slots": {
    "Miles Garett": 1,
    "Sgt. Collins": 2,
